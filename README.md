@@ -1,2 +1,2 @@
-# power-BI
-They are responsible for the development and administration of BI tools.
+# power-BI-Projects
+This repository contains Power BI Practice sessions.
